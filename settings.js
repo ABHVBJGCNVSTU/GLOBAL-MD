@@ -9,19 +9,19 @@ global.socialm = "GitHub: GlobalTechInfo" //ur github or insta name
 global.location = "Pakistan, Karachi, Lahore" //ur location
 
 //new
-global.botname = '© 𝐆𝐋𝐎𝐁𝐀𝐋-𝐌𝐃' //ur bot name
-global.ownernumber = ['923444844060'] //ur owner number, dont add more than one
-global.ownername = '© GlobalTechInfo' //ur owner name
+global.botname = '©AMIR' //ur bot name
+global.ownernumber = ['923114397148'] //ur owner number, dont add more than one
+global.ownername = '© MIAN-AMIR' //ur owner name
 global.websitex = "https://youtu.be/tLq8_qOOGFI"
-global.wagc = "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07"
+global.wagc = "https://chat.whatsapp.com/C3hvdeFzNGw85epEc0Q56P"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/GlobalTechInfo/GLOBAL-MD' //script link
 global.packname = "Sticker By"
-global.author = "GlobalTechInfo\n\n+923444844060"
-global.creator = "923444844060@s.whatsapp.net"
+global.author = "Mian Amir\n\n+923114397148"
+global.creator = "923114397148@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["923444844060"] // Premium User
+global.premium = ["923114397148"] // Premium User
 
 //channel id
 global.xchannel = {
